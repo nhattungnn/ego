@@ -1,0 +1,3 @@
+input[type="submit"],input[type="reset"],input[type="button"],button,.button{border:solid 2px #eaeaea}
+input[type="submit"].special,input[type="reset"].special,input[type="button"].special,button.special,.button.special{border:0}
+#banner:before{display:none}
